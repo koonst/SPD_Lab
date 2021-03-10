@@ -1,0 +1,8 @@
+	Za pomocą programu przepływowego można opisać na przykład proces produkcji
+fortepianów. Zadaniami są wytworzenia różnych części tego instrumentu, strun, korpusu,
+klawiszy, komponowanie wszystkich części w cały instrument. Maszyny to są narzędzia
+produkujace części fortepianu, oraz ludzie, również ci, którzy montują instrument.
+
+	Również w taki sposób można opisać proces przygotowania ciasta warstwowego,
+gdzie maszyny to urządzenia, każde z których po kolei układa "swą" warstwę. operacjami są
+układanie pierwszej warstwy, pokrycie krzemem, dodawanie kolejnej warstwy i t.d. 
