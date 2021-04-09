@@ -122,7 +122,7 @@ int main()
     {
         for (int j = i+1; j < IlZad; ++j)
         {
-            if (sumaczasow[i][0] <= sumaczasow[j][0])
+            if (sumaczasow[i][0] < sumaczasow[j][0])
             {
                 temp1 = sumaczasow[i][0];                
                 sumaczasow[i][0] = sumaczasow[j][0];                
