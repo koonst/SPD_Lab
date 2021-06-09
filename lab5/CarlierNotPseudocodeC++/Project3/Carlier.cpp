@@ -128,6 +128,7 @@ int Carlier::carlier(int alter)
 					tab[i] = alterstack.top()[i];
 				}
 				alterstack.pop();
+				alter = 99999;
 			}
 		}
 	} while (alterstack.empty() == false);
@@ -173,7 +174,7 @@ int Carlier::find_c(int a, int b, int c)
 {
 	c = -1;
 	//int i;
-	for (int i = b; i >= a; i--) //by³o i=b; i>=a; i--  i=a; i<=b; i++
+	for (int i = b; i >= a; i--) //byÂ³o i=b; i>=a; i--  i=a; i<=b; i++
 	{
 		if (tab[i].q < tab[b].q)
 		{
