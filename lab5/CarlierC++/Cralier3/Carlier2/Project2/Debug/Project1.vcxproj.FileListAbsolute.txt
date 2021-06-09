@@ -1,3 +1,0 @@
-D:\PAMSI\Carlier\Project1\Debug\Project1.exe
-d:\PAMSI\Carlier2\Project1\Debug\Projekt2.exe
-d:\PAMSI\Carlier2\Project2\Debug\Projekt2.exe
