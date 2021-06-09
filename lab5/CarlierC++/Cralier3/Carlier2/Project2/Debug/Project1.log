@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (Project1.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Źródło.cpp
+d:\PAMSI\Carlier2\Project2\Źródło.cpp(33,11): warning C4244: "inicjowanie": konwersja z "ULONGLONG" do "int", możliwa utrata danych
+d:\PAMSI\Carlier2\Project2\Źródło.cpp(17,6): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+  Project1.vcxproj -> D:\PAMSI\Carlier2\Project2\Debug\Projekt2.exe
